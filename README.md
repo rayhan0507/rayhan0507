@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayhan satria</h1>
-<h3 align="center">seorang anak kelas 11 sma yang ingin mempelajari dunia IT termasuk bahasa pemrograman</h3>
+<h3 align="center">seorang bocah kelas 11 sma yang ingin mempelajari dunia IT termasuk bahasa pemrograman</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnI0YWN0Y2kyYzA5ZGY4NmRicjVoY2N5N2Exd2U2bGZ6cWMzN3g5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDAnoTGMhGWGi75pfv/giphy.gif"
 
 
