@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 masih pelajar sma<br>🤓 17 tahun <br>🤝newbie :D<br>🌱 sedang belajar (pemula)<br>⚡ gabut
+🔭 pemula <br>🤓 17 tahun <br>🤝newbie :D (pemula)<br>🌱 sedang belajar (pemula)<br>⚡ gabut (pemula)
 
 
 ## 🌐 Socials:
