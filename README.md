@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 gabut <br>🤓 gabut <br>🤝gabut<br>🌱 gabut<br>⚡ gabut (pemula)
+trying to be cp programmers
 
 
 ## 🌐 Socials:
