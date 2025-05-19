@@ -1,5 +1,5 @@
 # 💫 About Me:
-trying to be cp programmers
+still trying to be cp programmers
 
 
 ## 🌐 Socials:
