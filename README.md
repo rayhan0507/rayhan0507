@@ -1,5 +1,6 @@
 # 💫 About Me:
 still trying to be cp programmers
+im 18
 
 
 ## 🌐 Socials:
