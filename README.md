@@ -1,6 +1,5 @@
 # 💫 About Me:
-still trying to be cp programmers<br>
-im 18
+geeked
 
 
 ## 🌐 Socials:
