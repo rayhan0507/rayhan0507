@@ -1,5 +1,7 @@
 # 💫 About Me:
-geeked
+geeked<br>
+leetcode: https://leetcode.com/u/ryxageneral/ <br>
+codewars: https://www.codewars.com/users/ryX4%E5%B0%86%E8%BB%8D
 
 
 ## 🌐 Socials:
