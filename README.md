@@ -1,5 +1,5 @@
 # 💫 About Me:
-geeked<br>
+progress to cp<br>
 leetcode: https://leetcode.com/u/ryxageneral/ <br>
 codewars: https://www.codewars.com/users/ryX4
 
