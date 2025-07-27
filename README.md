@@ -3,7 +3,7 @@ progress to cp<br>
 leetcode: https://leetcode.com/u/ryxageneral/ <br>
 codewars: https://www.codewars.com/users/ryX4
 
-90& repository private
+90% my repository are private
 
 <h3 align="left">CP:</h3>
 <p align="left">
