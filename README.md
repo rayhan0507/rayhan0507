@@ -3,6 +3,8 @@ progress to cp<br>
 leetcode: https://leetcode.com/u/ryxageneral/ <br>
 codewars: https://www.codewars.com/users/ryX4
 
+90& repository private
+
 <h3 align="left">CP:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/ryxageneral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ryxageneral" height="30" width="40" /></a>
