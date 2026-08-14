@@ -1,4 +1,3 @@
-# 💫 About Me:
 child po<br>
 leetcode: https://leetcode.com/u/ryxageneral/ <br>
 codewars: https://www.codewars.com/users/ryX4
