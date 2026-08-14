@@ -1,11 +1,11 @@
 # 💫 About Me:
-progress to cp<br>
+child po<br>
 leetcode: https://leetcode.com/u/ryxageneral/ <br>
 codewars: https://www.codewars.com/users/ryX4
 
 90% my repository are private
 
-<h3 align="left">perusak mental:</h3>
+<h3 align="left">awdasawdawas</h3>
 <p align="left">
 <a href="https://www.leetcode.com/ryxageneral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ryxageneral" height="30" width="40" /></a>
 </p>
